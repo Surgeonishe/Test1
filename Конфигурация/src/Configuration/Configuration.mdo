@@ -41,4 +41,5 @@
   </languages>
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
 </mdclass:Configuration>
