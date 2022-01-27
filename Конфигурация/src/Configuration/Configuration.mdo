@@ -40,6 +40,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.Константа</constants>
+  <constants>Constant.Константа1</constants>
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
